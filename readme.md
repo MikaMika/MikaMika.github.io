@@ -1,3 +1,3 @@
 # MikaMika's projects
 
-- [AISAP](./aisap/)
+- [AISAP](https://mikamika.github.io/aisap/)
